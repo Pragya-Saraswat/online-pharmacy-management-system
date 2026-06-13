@@ -139,7 +139,7 @@ export class CustomerCheckoutComponent implements OnInit {
           name: file.name,
           size: file.size,
           type: file.type,
-          base64: reader.result as string
+         
         };
         this.rxFileInfo.set(fileObj);
         this.rxForm.patchValue({ prescriptionFile: fileObj });
