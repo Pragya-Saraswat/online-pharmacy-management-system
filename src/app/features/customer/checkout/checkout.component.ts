@@ -174,8 +174,11 @@ export class CustomerCheckoutComponent implements OnInit {
     }
   }
 
-  prevStep() {
-    this.step.update(s => Math.max(1, s - 1));
+ prevStep() {
+    if(!this.requiresRx() && this.step()===3){
+      this.step.update(s => Math.max(1, s - 2));
+    }else{
+    this.step.update(s => Math.max(1, s - 1));}
   }
 
   formatDeliverySlot(dateTimeStr: string): string {
