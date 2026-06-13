@@ -691,6 +691,22 @@
       "type": "success",
       "timestamp": "2026-06-12T08:31:26.605Z",
       "isRead": false
+    },
+    {
+      "id": "6lEi3X-PPdc",
+      "title": "Test Title",
+      "message": "Test Message",
+      "type": "success",
+      "timestamp": "2026-06-13T12:51:07.553Z",
+      "isRead": false
+    },
+    {
+      "id": "vhxiDKbzL0k",
+      "title": "Test Title",
+      "message": "Test Message",
+      "type": "info",
+      "timestamp": "2026-06-13T12:51:07.561Z",
+      "isRead": false
     }
   ],
   "addresses": [
