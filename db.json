@@ -707,6 +707,30 @@
       "type": "info",
       "timestamp": "2026-06-13T12:51:07.561Z",
       "isRead": false
+    },
+    {
+      "id": "mybpW-SW3Ok",
+      "title": "Logged Out",
+      "message": "You have been logged out",
+      "type": "info",
+      "timestamp": "2026-06-14T04:20:45.152Z",
+      "isRead": false
+    },
+    {
+      "id": "E2VDbKfGCMI",
+      "title": "Login Successful",
+      "message": "Welcome vaduni@gmail.com",
+      "type": "success",
+      "timestamp": "2026-06-14T04:21:01.826Z",
+      "isRead": false
+    },
+    {
+      "id": "--A5NNP40LY",
+      "title": "Logged Out",
+      "message": "You have been logged out",
+      "type": "info",
+      "timestamp": "2026-06-15T04:14:15.728Z",
+      "isRead": false
     }
   ],
   "addresses": [
